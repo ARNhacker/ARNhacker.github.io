@@ -33,28 +33,42 @@ of those sections to manage the look and feel of the site. */
 
 .intro-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 25%;
     text-align: center;
     background: #fff;
 }
 
 .link-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 40px;
+    text-align: center;
+    background: #fff;
+}
+
+.link-section-alt {
+    height: 100%;
+    padding-top: 40px;
     text-align: center;
     background: #eee;
 }
 
 .post-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 40px;
     text-align: justify;
     background: #fff;
 }
 
+.post-section-alt {
+    height: 100%;
+    padding-top: 40px;
+    text-align: justify;
+    background: #eee;
+}
+
 .contact-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 40px;
     text-align: center;
     background: #eee;
 }
